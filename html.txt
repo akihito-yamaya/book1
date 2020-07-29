@@ -1,0 +1,290 @@
+<html lang="ja"><head>
+    <meta charset="UTF-8">
+    <title>book</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="wrapper">
+
+         <header>
+
+            <img src="img/blue-bird.png" alt="羽ばたく鳥">
+
+                <h1><a href="">らむね文庫</a></h1>
+
+                <h2>RAMUNE   BUNKO</h2>
+
+                    <div id="nav">
+
+                     <ul>
+
+                        <li><a href="">保護者の皆様へ</a></li>
+                        <li><a href="">来月のおすすめ</a></li>
+                        <li><a href="">ブログ</a></li>
+                        <li><a href="">スケジュール</a></li>
+                        <li><a href="">今月の絵本</a></li>
+                        <li><a href="">ニュース</a></li>
+
+                    </ul>
+                
+                    </div>
+
+        </header>
+
+        <article>
+
+            <div class="main">
+
+                <div class="title">
+
+                        <img src="img/wood.jpg" alt="back-ground">
+
+                <h2>今月の絵本</h2>
+
+                </div>  
+
+                     <section>
+
+                             <div class="main-img1">
+
+                                <img src="img/hameln.png" alt="hameln">
+
+                             </div>
+
+                             <div class="book-title1">
+
+                                <h3><a href="">ハーメルンの<br>笛吹き男</a></h3>
+
+                             </div>
+
+                    </section>
+
+                    <section>
+
+                             <div class="main-img2">
+
+                                    <img src="img/santa.png" alt="santa">
+
+                             </div>
+
+                             <div class="book-title2">
+
+                                    <h3><a href="">サンタ</a></h3>
+
+                             </div>
+
+                     </section>
+
+                     <section>
+
+                             <div class="main-img3">
+
+                                  <img src="img/dogeza.png" alt="dogeza">
+                                
+                             </div>
+
+                             <div class="book-title3">
+
+                                   <h3><a href="">怒らせない方法</a></h3>
+
+                             </div>
+
+                    </section>
+
+                    <section>
+
+                            <div class="main-img4">
+
+                                 　　<img src="img/kingyo.png" alt="kingyo">
+
+                             </div>
+
+                             <div class="book-title4">
+
+                                    <h3><a href="">金魚の育て方</a></h3>
+
+                             </div>
+
+                    </section>
+
+                    <section>
+
+                            <div class="main-img5">
+                                
+                                    <img src="img/muscle.png" alt="kinnniku">
+
+                            </div>
+
+                            <div class="book-title5">
+
+                                    <h3><a href="">筋肉の付け方</a></h3>
+
+                            </div>
+
+                    </section>
+
+                    <section>
+
+                            <div class="main-img6">
+
+                                  <img src="img/sakura.png" alt="sakura">
+
+                            </div>
+
+                            <div class="book-title6">
+
+                                    <h3><a href="">桜</a></h3>
+
+                            </div>
+
+                    </section>
+
+                    <section>
+
+                            <div class="main-img7">
+
+                                    <img src="img/beer-kanpai.png" alt="">
+
+                            </div>
+
+                            <div class="book-title7">
+
+                                    <h3><a href="">大人の階段</a></h3>
+
+                            </div>
+
+                    </section>
+                   
+                    <section>
+
+                        <div class="main-img8">
+
+                                <img src="img/truth-eye.png" alt="truth-eye">
+
+                        </div>
+
+                        <div class="book-title8">
+
+                                <h3><a href="">真実の目</a></h3>
+
+                        </div>
+
+                    </section>
+               
+            </div>
+
+        </article>
+
+    
+        
+
+    </div>   
+
+    <div class="aside">
+
+        <article>
+
+                <section>
+
+                        <div class="aside1">
+
+                                <img src="img/book.png" alt="">
+
+                                <h2>本を探す</h2>
+
+                                        <form action="" method="GET">
+                                
+                                                <select name="genre" id="">
+
+                                                        <option value="">ジャンル</option>
+                                                        <option value="">すべて</option>
+                                                        <option value="">すべて</option>
+                                                </select>
+
+                                                <input type="search" name="search" placeholder="絵本の名前">
+                                                 
+
+                                                  <input type="submit" name="submit" value="しらべる">
+
+                                        </form>
+
+                        </div>
+
+                </section>
+
+        </article>
+
+        <article>
+
+           <section>
+
+               <div class="aside2">
+
+                       <img src="img/wood.jpg" alt="wood">
+
+                       <h2>らむね文庫から</h2>
+
+
+                        <div class="scroll">
+
+                                <p>このポートフォリオを添削していただき、誠にありがとうございます。</p>
+                                <br>
+                                <p>おすすめの本を少しだけ紹介させていただきます</p><br>
+                                <b></b><p><b><a href="">★ハーメルンの笛吹き男</a></b>
+                                </p><p>1284年、ハーメルンの町ではネズミが大量発生し、住民たちは困り果てていました。<br>
+
+                                        そんなある日、色とりどりの布を繋ぎ合わせた服を来た男が現れます。<br>
+
+                                        褒美をくれるのならば、町を荒らしているネズミを退治しよう」と言ったので、住民たちは報酬を払う約束をしました。<br>
+
+                                        男はネズミたちを1匹残らず溺死させたのです。<br>
+
+                                        しかし、町の住民たちは男との約束を守らず、報酬を払いませんでした。<br>
+                                        
+                                        男は1度町を離れたものの、6月26日に再びハーメルンに現れました。<br>この後、笛吹き男が行った行動とは！？<br> </p>
+
+                                        <br>
+                                
+                                <p><b><a href="">→よみたくなったらこちら！</a></b></p>
+                               
+
+                        </div>
+
+               </div>
+
+           </section>
+
+           <section>
+
+
+                
+           </section>
+
+       </article>
+
+
+        </div>
+
+
+       <div class="footer">
+
+                <ul>
+
+                        <li><a href="">よくある質問</a></li>
+                        <li><a href="">個人情報について</a></li>
+                        <li><a href="">利用規約</a></li>
+                        <li><a href="">会社情報</a></li>
+
+                </ul>
+
+
+       </div>
+       
+
+
+    
+
+
+
+
+</body></html>      
