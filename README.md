@@ -1,1 +1,1 @@
-https://akihito-yamaya.github.book1/
+ https://akihito-yamaya.github.io/book1/
